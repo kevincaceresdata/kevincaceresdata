@@ -1,4 +1,4 @@
-﻿# Kevin CÃ¡ceres
+﻿# Kevin Cáceres
 
 Analista de datos orientado al fÃºtbol. Convierto video y datos de eventos en
 informes que un cuerpo tÃ©cnico puede usar en minutos.
